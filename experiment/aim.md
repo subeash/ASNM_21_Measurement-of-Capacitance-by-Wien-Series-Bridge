@@ -1,2 +1,2 @@
 ## Objective
-- To determine accurate Quality Factor of an unknown coil.
+- To determine the capacitance of an unknown capacitor. 
