@@ -1,7 +1,7 @@
 ## Procedure
 
 <div align="center">
-<img src="images/theory.jpg" />
+<img src="images/procedure.jpg" />
 
 ***Fig.1 Circuit digram of experimental set-up for Wien Series Capacitance measurement Bridge***
 </div>
