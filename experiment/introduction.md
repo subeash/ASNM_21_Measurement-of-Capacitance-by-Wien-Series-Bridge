@@ -1,10 +1,10 @@
 ## Introduction
-<p align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+<div align="center">
+<img src="images/theory.jpg" />
 
 ***Fig.1 : Circuit diagram for measurement of capacitance by Wien Series Bridge***
-</p>
+</div>
 
 Let,  
 
